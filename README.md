@@ -35,4 +35,8 @@ There are no default credentials: every vault has only the password chosen when 
 
 See [`desktop/README.md`](desktop/README.md) for running the interface in a browser with hot reload, the tests and the project layout.
 
+## License
+
+The code is released under the [MIT License](LICENSE).
+
 Part of the [`templates`](https://github.com/mattoznav/templates) collection.
